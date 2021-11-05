@@ -10,7 +10,7 @@
 
 ## 🔎 Introduction
 
-> The name says all. Built using HTML5, Bootstrap 4 and Javascript, JQuery. Uses the IBGE (Instituto Brasileiro de Geografia e Estatistica) API. Totally Functional.
+> The name says all. Built using HTML5, Bootstrap 4 and Javascript, JQuery. <br/>Uses the IBGE (Instituto Brasileiro de Geografia e Estatistica) API. Totally Functional.
 
 ## 👁️ Preview:
 
