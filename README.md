@@ -12,8 +12,10 @@
 
 > The name says all. Built using HTML5, Bootstrap 4 and Javascript, JQuery. <br/>Uses the IBGE (Instituto Brasileiro de Geografia e Estatistica) API. Totally Functional.
 
+<a href="https://felipepaluco.github.io/Nomes-Brasileiros/">Click here to try by yourself.</a>
+
 ## 👁️ Preview:
 
-> <a href="https://felipepaluco.github.io/Nomes-Brasileiros/">Click here to try by yourself.</a>
+>
 ![](preview.gif)
 
