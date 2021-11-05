@@ -14,5 +14,6 @@
 
 ## 👁️ Preview:
 
+> <a href="https://felipepaluco.github.io/Nomes-Brasileiros/">Click here to try by yourself.</a>
 ![](preview.gif)
 
