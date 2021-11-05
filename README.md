@@ -14,5 +14,5 @@
 
 ## 👁️ Preview:
 
-![](expenseapp-gif.gif)
+![](preview.gif)
 
